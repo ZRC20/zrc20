@@ -1,12 +1,5 @@
 # ZRC-20: Native Privacy Fungible Token Standard
 
-**Version:** 0.1  
-**Status:** Draft  
-**Type:** Standard Track  
-**Category:** Token Standard  
-**Created:** 2025-06-30  
-**License:** CC0
-
 ## Abstract
 ZRC-20 defines a new fungible token standard for Ethereum that supports native privacy by default. Unlike ERC-20, where balances and transactions are publicly visible on-chain, ZRC-20 ensures all token transfers and ownership details (amount, sender, receiver) are cryptographically hidden using zero-knowledge proofs (zk-SNARKs).
 
