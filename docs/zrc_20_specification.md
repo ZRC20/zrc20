@@ -12,7 +12,7 @@ The standard includes core privacy functionality, an optional fair launch mintin
 // SPDX-License-Identifier: CC0-1.0
 pragma solidity ^0.8.18;
 
-interface IERC_P_Mintable {
+interface IZRC20 {
     // --- Events ---
     event Transaction(bytes32[] noteCommitments);
     event ViewAccessGranted(address indexed owner, address indexed viewer);
